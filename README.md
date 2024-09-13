@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @AehrBaehr
+- 👀 I’m interested in Pixel Art
+- 🌱 I’m currently learning Pixel Art
