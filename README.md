@@ -1,3 +1,4 @@
-- 👋 Hi, I’m @AehrBaehr
-- 👀 I’m interested in Pixel Art
-- 🌱 I’m currently learning Pixel Art
+- 👋 Hi, I’m AehrBaehr but you can call me Aehr.
+- I speak English and German.
+- 👀 I’m interested in Pixel Art.
+- 🌱 I’m currently learning Pixel Art.
